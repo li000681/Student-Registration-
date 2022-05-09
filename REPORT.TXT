@@ -1,0 +1,11 @@
+NAME                                     AVERAGE      PROGRAM          TUITION OWED
+JONES, WILLIAM                            090    COMPUTER PRGRAMMER        500.00
+SMITH, FRED                               082    COMPUTER TECHNICIAN     2,000.00
+CROMWELL, OLIVER                          070    COMPUTER SIENCE           920.00
+HEHEINLEN, HERBERT                        090    COMPUTER PRGRAMMER      1,500.00
+ASSIMOV, ISAAC                            047    COMPUTER PRGRAMMER         50.00
+JONES, WILLIAM                            090    COMPUTER PRGRAMMER      1,000.00
+SMITH, Bill                               082    COMPUTER TECHNICIAN     2,000.00
+CROMWELL, OLIVIA                          070    COMPUTER SIENCE           920.00
+HEHEINLEN, HERBERT                        090    COMPUTER PRGRAMMER      1,500.00
+ASSIMOV, ISAAC                            047    COMPUTER PRGRAMMER          0.00
